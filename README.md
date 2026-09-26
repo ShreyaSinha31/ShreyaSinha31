@@ -68,5 +68,5 @@ Learning → Building → Deploying → Improving
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Shreya Sinha]((https://www.linkedin.com/in/shreya-sinha-a1205a296/?isSelfProfile=true))
+- LinkedIn: [Shreya Sinha](https://www.linkedin.com/in/shreya-sinha-a1205a296/?isSelfProfile=true)
 - GitHub: [ShreyaSinha31](https://github.com/ShreyaSinha31)
